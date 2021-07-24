@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jiabin Xie's academic personal websites!"
+title: "Welcome to Jiabin Xie's academic personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
