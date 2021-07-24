@@ -11,38 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.S. in Mechanics, Sun Yat-sen University, 2022 (expected)
+* B.E. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2019
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Experience
+======
+* 2019.12 - present: Development of a parallel solver for large-scale turbulence direct numerical simulations
+  * Duties included: 
+  * Supervisor: Prof. Yun Bao & Prof. [Xi Chen](https://www.researchgate.net/profile/Xi-Chen-134)
+
+Internship
+======
+* 2021.04 - 2021.07: Research Intern in CAE R&D Center
+  * [ZWSOFT CO., LTD.(Guangzhou)](https://www.zwsoft.com/)
+  * Duties included:
+  * Supervisor: Dr. Dongyu Liu & Mr. Yuanzhao Xu
   
-Talks
+Skills
+======
+* Programming Languages
+  * Fortran, C/C++, Python, LaTeX, Matlab, Mathematica
+* Parallel Computing
+  * MPI, OpenMP, x86 intrinsic/inline assembly
+* Other
+  * Linux, Git
+  * ParaView, Adobe Photoshop/Illustration
+  
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
