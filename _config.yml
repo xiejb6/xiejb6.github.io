@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiabin Xie"
 title_separator          : "-"
 name                     : &name "Jiabin Xie"
-description              : &description "personal description"
+description              : &description "Postgraduate student in Fluid Mechanics at Sun Yat-sen University"
 url                      : https://xiejb6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiejb6/xiejb6.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiabin Xie (谢嘉斌)"
   avatar           : "profile_xjb.jpg"
-  bio              : "Postgraduate student in fluid mechanics at Sun Yat-sen University. Interested in HPC & CFD."
+  bio              : "Postgraduate student in Fluid Mechanics at Sun Yat-sen University. Interested in HPC & CFD."
   location         : "Guangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
