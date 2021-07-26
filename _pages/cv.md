@@ -37,6 +37,16 @@ Internship
   * Most of the optimized math functions/operations have a comparable performance to Intel MKL, accelerating the efficiency of core numerical algorithms like PCG
   * Several functions specific to finite element method are also highly optimized
   
+Honors & Awards
+======
+* 2020 The 8th "Intel Cup" Parallel Application Challenge (PAC20), **Silver award**
+* 2019 The ASC Student Supercomputer Challenge Preliminary Contest (ASC19), **The Second Prize**
+* 2019 Outstanding Undergraduate Graduates Award of Sun Yat-sen University
+* 2019 Outstanding Undergraduate Thesis Award of Sun Yat-sen University
+* 2017 National College Students Competition of Mechanics, **The Third Prize**
+* 2016-2018 National Encouragement scholarship
+* 2015-2018 **First/Second-class** scholarship of Sun Yat-sen University
+
 Skills
 ======
 * Programming Languages
