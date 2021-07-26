@@ -5,7 +5,7 @@ permalink: /publication/2020-10-02-SIMULATION-metro-fire-evacuation
 excerpt: 'A coupled analysis of agent behavior and Computational Fluid Dynamics (CFD) model is applied to investigate the fire evacuation effectiveness in a popular metro station in Guangzhou, China.'
 date: 2020-10-02
 venue: 'SIMULATION'
-paperurl: 'https://xiejb6.github.io/files/paper1.pdf'
+paperurl: 'https://xiejb6.github.io/files/2020-10-02-SIMULATION-metro-fire-evacuation.pdf'
 citation: '<b>Xie, J.</b>, Chen, K., Kwan, T. H., & Yao, Q. (2020). Numerical simulation of the fire emergency evacuation for a metro platform accident. <i>SIMULATION</i>, 97(1), 19-32. https://doi.org/10.1177/0037549720961433.'
 ---
 
