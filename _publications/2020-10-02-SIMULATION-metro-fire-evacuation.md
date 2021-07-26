@@ -6,7 +6,7 @@ excerpt: 'Test excerpt.'
 date: 2020-10-02
 venue: 'SIMULATION'
 paperurl: 'https://xiejb6.github.io/files/paper1.pdf'
-citation: 'Xie, J., Chen, K., Kwan, T. H., & Yao, Q. (2020). Numerical simulation of the fire emergency evacuation for a metro platform accident. <i>SIMULATION</i>, 97(1), 19-32.'
+citation: '<b>Xie, J.</b>, Chen, K., Kwan, T. H., & Yao, Q. (2020). Numerical simulation of the fire emergency evacuation for a metro platform accident. <i>SIMULATION</i>, 97(1), 19-32. https://doi.org/10.1177/0037549720961433'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
