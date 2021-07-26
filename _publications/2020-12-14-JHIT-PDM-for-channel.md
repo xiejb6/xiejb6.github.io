@@ -5,8 +5,8 @@ permalink: /publication/2020-12-14-PDM-for-channel
 excerpt: 'In this study, the direct numerical simulations of turbulent channel flow combined with Parallel Direct Method of DNS (PDM-DNS) are performed, and high parallel efficiency is obtained.'
 date: 2020-12-14
 venue: 'Journal of Harbin Institute of Technology (哈尔滨工业大学学报)'
-paperurl: 'http://academicpages.github.io/files/2020-12-14-JHIT-PDM-for-channel.pdf'
-citation: 'Xi, L., <b>Xie, J.</b>, & Bao, Y. (2021). &quot;Parallel direct method for turbulent channel flow (in Chinese).&quot; <i>Journal of Harbin Institute of Technology</i>, 53(1), 163-167. https://doi.org/10.11918/202001028.'
+paperurl: 'https://xiejb6.github.io/files/2020-12-14-JHIT-PDM-for-channel.pdf'
+citation: 'Xi, L., <b>Xie, J.</b>, & Bao, Y. (2021). Parallel direct method for turbulent channel flow (in Chinese). <i>Journal of Harbin Institute of Technology</i>, 53(1), 163-167. https://doi.org/10.11918/202001028.'
 ---
 
 # Abstract
