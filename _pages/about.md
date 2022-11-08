@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am now a postgraduate student in Mechanics at Sun Yat-sen University (SYSU), conducting research on large-scale turbulence direct numerical simulation (DNS) under the guidance of Prof. Yun Bao. In 2019, I received my Bachelor of Engineering degree in Theoretical and Applied Mechanics at SYSU and graduated as an excellent undergraduate.
+I am now a PhD student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU). 
 
-Although I majored in mechanics, I am actually very interested in high-performance computing (HPC). In my senior year of undergraduate study, I was fortunate to join the Student Cluster Competition Team of SYSU ([SYSU-SCC](https://github.com/SYSU-SCC)) and enjoyed learning parallel computing and code optimization. At the same time, I provided optimization suggestions for HPC applications in fluid mechanics domain to the team members. To be honest, my subsequent research on computational fluid dynamics (CFD) benefits a lot from this experience. If possible, I hope to continue my PhD study in the intersection of HPC & CFD.
+My research interests include:
+- High-Performance computing (HPC) and parallel computing
+- Computational fluid dynamics (CFD)
 
 Education
 ======
-* M.S. in Mechanics, Sun Yat-sen University, Guangzhou, China, 2022 (expected)
-* B.E. in Theoretical and Applied Mechanics, Sun Yat-sen University, Guangzhou, China, 2019
+* Ph.D in Computational Science and Engineering, Sun Yat-sen University, 2022.9 - now, Supervisor: Prof. Yutong Lu
+* M.S. in Mechanics, Sun Yat-sen University, 2019.9 - 2022.6, Supervisor: Prof. Yun Bao
+* B.E. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015.8 - 2019.6

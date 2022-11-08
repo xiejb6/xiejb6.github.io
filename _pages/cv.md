@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mechanics, Sun Yat-sen University, 2022 (expected)
-* B.E. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2019
+* Ph.D in Computational Science and Engineering, Sun Yat-sen University, 2022.9 - now, Supervisor: Prof. Yutong Lu
+* M.S. in Mechanics, Sun Yat-sen University, 2019.9 - 2022.6, Supervisor: Prof. Yun Bao
+* B.E. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015.8 - 2019.6
 
 Publications
 ======
@@ -22,11 +23,10 @@ Publications
 
 Experience
 ======
-* 2019.12 - present: Development of a parallel solver for large-scale turbulence direct numerical simulations
+* 2019.12 - present: Development of a parallel solver (PowerLLEL) for large-scale wall turbulence direct numerical simulations
   * Supervisor: Prof. Yun Bao & Prof. [Xi Chen](https://www.researchgate.net/profile/Xi-Chen-134)
   * Responsible for the design of the solver framework and numerical algorithms, as well as parallel programming
-  * Implement a low-communication-overhead parallel algorithm for tridiagonal systems, which accelerates the solving process of a large-scale Poisson's Equation by nearly 30%
-  * Using a MPI/OpenMP hybrid parallel programming model, the solver shows excellent strong scalability to $10^4$ cores on two supercomputers, namely Tianhe-2A ([NSCC-GZ](http://nscc-gz.cn/)) and Frontera ([TACC](https://www.tacc.utexas.edu/))
+  * The solver shows excellent strong scalability to $O(10^4)$ cores on two supercomputers, namely Tianhe-2A ([NSCC-GZ](http://nscc-gz.cn/)) and Frontera ([TACC](https://www.tacc.utexas.edu/))
   * Prepare for larger-scale simulations of turbulent flows
 
 Internship
